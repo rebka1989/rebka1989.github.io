@@ -1,7 +1,11 @@
 # Welcome
 
-My name is Dr. Rebecca Bornstein-Zieve. I am a postdoctorate fellow working in the laboratory of Dr. Ofer Yizhar in the Department of Brain Sciences at the Weizmann Institute. My research interests include early life social behavior, autism, physiology, and neurodevelopment.
+<div align="justify">
+    My name is Dr. Rebecca Bornstein-Zieve. I am a postdoctorate fellow working in the laboratory of Dr. Ofer Yizhar in the Department of Brain Sciences at the Weizmann Institute. My research interests include early life social behavior, autism, physiology, and neurodevelopment.
+</div>
 
 Here is a [link](https://scholar.google.com/citations?user=i9eWpDgAAAAJ&hl=en&oi=ao) to my google scholar page.
 
-![](https://raw.githubusercontent.com/rebka1989/rebka1989.github.io/main/linkedin.JPG)
+<div align="center">
+    <img src="https://raw.githubusercontent.com/rebka1989/rebka1989.github.io/main/linkedin.JPG" width="150">
+</div>
